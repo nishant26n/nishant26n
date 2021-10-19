@@ -8,4 +8,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nishant26n&show_icons=true&count_private=true" alt="nishant26n" width="500" height="auto"/>
 </div>
 <br>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant26n&layout=compact&hide=html" alt="nishant26n" width="250"/></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant26n&layout=compact&hide=html" alt="nishant26n" width="500" height="auto"/></div>
