@@ -1,5 +1,5 @@
 <div>
-  I am a self-taught frontend developer. I use javascript with facebook library React JS and I'm also a java programmer with decent knowledge of data structure.
+  I am a self-taught frontend developer. I use javascript with facebook library React JS and I'm also a java programmer with decent knowledge of data structure and algorithm.
 </div>
 <p>These are my social-media links below 👇🏻</p>
 <a href="https://www.linkedin.com/in/nishant-rajpoot-779480193/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
