@@ -8,7 +8,7 @@ I've been coding for three years; I started programming with Java. I found my pa
 
 * 🌍  I'm based in Dehradun
 * ✉️  You can contact me at [rajpootnishant7@gmail.com](mailto:rajpootnishant7@gmail.com)
-* 🧠  I'm learning Next.JS and Blockchain
+* 🧠  I'm learning Next.JS and GraphQL
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I have an ability to start with new technology and can work on project with that new technology.
 
